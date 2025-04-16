@@ -11,10 +11,7 @@ npm run start
 
 Facing any issue: [Documentation](https://tailwindcss.com/docs/installation/using-postcss)
 
-<<<<<<< HEAD
-=======
 
->>>>>>> 37551c8 (readme.md)
 # Razorpay Landing Page 🌐
 
 A fully responsive Razorpay-style landing website built with **HTML**, **CSS**, and **Tailwind CSS**. This project is designed with clean, modular, and high-quality code, ensuring a seamless experience across all screen sizes.
@@ -54,8 +51,4 @@ Designed and tested to be **fully responsive** on:
 - Mobile Devices
 
 For any Suggestion :
-<<<<<<< HEAD
 email:: suryanshrajyadav005@gmail.com
-=======
-email:: suryanshrajyadav005@gmail.com
->>>>>>> 37551c8 (readme.md)
